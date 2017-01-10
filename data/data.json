@@ -39,10 +39,62 @@
 				},
 				{
 					"id": "zzz",
-					"nome": "Reunião Climática Sazonal",
+					"nome": "Reunião Sazonal",
 					"descricao": "",
 					"visibilidade": true,
 					"imagem": "reuniao_climatica.png",
+					"cor": ""
+				}
+			]
+		},
+		{
+			"nome": "eventos",
+			"descricao": "",
+			"visibilidade": true,
+			"imagem": "",
+			"cor": "",
+			"itens":
+			[
+				{
+					"id": "xxx",
+					"nome": "Palestras",
+					"descricao": "",
+					"visibilidade": true,
+					"imagem": "palestras.png",
+					"cor": ""
+				},
+				{
+					"id": "zzz",
+					"nome": "Seminários",
+					"descricao": "",
+					"visibilidade": true,
+					"imagem": "seminarios.png",
+					"cor": ""
+				}
+			]
+		},
+		{
+			"nome": "projetos",
+			"descricao": "",
+			"visibilidade": true,
+			"imagem": "",
+			"cor": "",
+			"itens":
+			[
+				{
+					"id": "xxx",
+					"nome": "Mídias",
+					"descricao": "",
+					"visibilidade": true,
+					"imagem": "midias.png",
+					"cor": ""
+				},
+				{
+					"id": "zzz",
+					"nome": "Outros",
+					"descricao": "",
+					"visibilidade": true,
+					"imagem": "outros.png",
 					"cor": ""
 				}
 			]
