@@ -1,0 +1,51 @@
+{
+	"aplicativo": "mcapp",
+	"descricao": "Aplicativo para exibição de conteúdos multimídia",
+	"secoes":
+	[
+		{
+			"nome": "tempo",
+			"descricao": "",
+			"visibilidade": true,
+			"imagem": "",
+			"cor": "",
+			"itens":
+			[
+				{
+					"id": "mmmm",
+					"nome": "Previsão Diária",
+					"descricao": "",
+					"visibilidade": true,
+					"imagem": "tempo.png",
+					"cor": ""
+				}
+			]
+		},
+		{
+			"nome": "clima",
+			"descricao": "",
+			"visibilidade": true,
+			"imagem": "",
+			"cor": "",
+			"itens":
+			[
+				{
+					"id": "xxx",
+					"nome": "Previsão Climática",
+					"descricao": "",
+					"visibilidade": true,
+					"imagem": "clima.png",
+					"cor": ""
+				},
+				{
+					"id": "zzz",
+					"nome": "Reunião Climática Sazonal",
+					"descricao": "",
+					"visibilidade": true,
+					"imagem": "reuniao_climatica.png",
+					"cor": ""
+				}
+			]
+		}
+	]
+}

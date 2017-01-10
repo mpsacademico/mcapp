@@ -1,6 +1,16 @@
 .bar {
 	background-color: rgb(63, 81, 181) !important;
+	-webkit-box-shadow: inset 0 -2px 0 #3f51b5,0 3px 3px rgba(0,0,0,.07);
+	box-shadow: inset 0 -2px 0 #3f51b5,0 3px 3px rgba(0,0,0,.07);
 }
 .title {
-	color: rgb(255, 255, 255) !important;
+	color: white !important;
+}
+.card {
+	background-color: white !important;
+}
+.img-24 {
+	background-color: white;
+	height: 22px;
+	width: 22px;
 }
