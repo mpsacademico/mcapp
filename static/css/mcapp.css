@@ -6,6 +6,10 @@
 .bar a.icon {
 	color: white;
 }
+.icon-left-nav{
+	color: white;
+
+}
 .title {
 	color: white !important;	
 }
@@ -18,4 +22,10 @@
 }
 #secoes #menu li.table-view-cell.table-view-divider {	
 	padding: 6px 65px 6px 15px;
+}
+#copyright {	
+	text-align: center;
+}
+#copyright p {
+	font-size: 10px;
 }
