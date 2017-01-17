@@ -12,7 +12,7 @@
 			"itens":
 			[
 				{
-					"id": "mmmm",
+					"id": "PLzU9lqk8MaUse8N5jgFQqsZm_GEM9mtaU",
 					"nome": "Previsão Diária",
 					"descricao": "",
 					"visibilidade": true,
@@ -30,7 +30,7 @@
 			"itens":
 			[
 				{
-					"id": "xxx",
+					"id": "PLzU9lqk8MaUv_OMUJTjIvkSKNFx_HlY_s",
 					"nome": "Previsão Climática",
 					"descricao": "",
 					"visibilidade": true,
@@ -38,7 +38,7 @@
 					"cor": ""
 				},
 				{
-					"id": "zzz",
+					"id": "PLzU9lqk8MaUtkyghWk-YJOnZ7R6GNFPTV",
 					"nome": "Reunião Sazonal",
 					"descricao": "",
 					"visibilidade": true,
@@ -56,7 +56,7 @@
 			"itens":
 			[
 				{
-					"id": "xxx",
+					"id": "PLzU9lqk8MaUucvJeJPob6zKfsRYlQ0KMk",
 					"nome": "Palestras",
 					"descricao": "",
 					"visibilidade": true,
@@ -64,7 +64,7 @@
 					"cor": ""
 				},
 				{
-					"id": "zzz",
+					"id": "PLzU9lqk8MaUs2VtF0FqKGQhFu9u0aDPaw",
 					"nome": "Seminários",
 					"descricao": "",
 					"visibilidade": true,
@@ -82,7 +82,7 @@
 			"itens":
 			[
 				{
-					"id": "xxx",
+					"id": "midias",
 					"nome": "Mídias",
 					"descricao": "",
 					"visibilidade": true,
@@ -90,7 +90,7 @@
 					"cor": ""
 				},
 				{
-					"id": "zzz",
+					"id": "outros",
 					"nome": "Outros",
 					"descricao": "",
 					"visibilidade": true,
