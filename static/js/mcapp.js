@@ -1,9 +1,8 @@
 var itens = {};
-window.addEventListener('push', myFunction);
 $(document).ready(function(){	
 });
-$( "#m" ).click(function() {
-  console.log("1");
+$("*").click(function() {  
+ 	console.log($(this));
 });
 function iniciarMenuInicial(){
 	$.ajax({
@@ -17,7 +16,7 @@ function iniciarMenuInicial(){
 			itens = secoes[i].itens;
 			for (j in itens) {
 				$("#secoes #menu").append('<li class="table-view-cell media"><a class="imv" href="#playlist_'+itens[j].id+'" data-id="'+itens[j].id+'" class="navigate-right"><img class="media-object pull-left img-24" src="data/img/'+itens[j].imagem+'"><div class="media-body">'+itens[j].nome+'</div></a></li>');
-				$("#playlists").append('<div id="playlist_'+itens[j].id+'" class="playlist modal"><header class="bar bar-nav"><a class="icon icon-close pull-right" href="#playlist_'+itens[j].id+'"></a><h1 class="title">'+itens[j].nome+'</h1></header><div class="content"><div class="content-padded"><a id="m" href="g" onclick="alert("teste")" data-ignore="push">s</a></div></div></div>');
+				$("#playlists").append('<div id="playlist_'+itens[j].id+'" class="playlist modal"><header class="bar bar-nav"><a class="icon icon-close pull-right" href="#playlist_'+itens[j].id+'"></a><h1 class="title">'+itens[j].nome+'</h1></header><div class="content"><div class="content-padded"><a class="zm" >saaaa</a></div></div></div>');
 			}   
 		}
 	});
