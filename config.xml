@@ -4,7 +4,7 @@
         id="org.mps.mcapp"
         version="0.0.1">
 
-    <name>MCAPP</name>
+    <name>Multimídia - CPTEC/INPE</name>
 
     <description>
         Aplicativo para exibição de conteúdos multimídia
@@ -14,6 +14,8 @@
         Marcos Paulo da Silva
     </author>
     
+    <preference name="fullscreen" value="true" />
 	<preference name="permissions" value="none" />
+	<icon src="static/img/icon.png" />
 	
 </widget>
