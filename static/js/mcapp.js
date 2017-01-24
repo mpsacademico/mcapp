@@ -24,7 +24,7 @@ function iniciarMenuInicial(){
 						var s = items[x].snippet;
 						var ri = s.resourceId;
 						var t = s.thumbnails;
-					    $("#videos").append('<li class="table-view-cell media"><a class="navigate-right" href="https://www.youtube.com/watch?v="'+ri.videoId+'"><img class="media-object pull-left icon img-42" src="'+t.default.url+'"><div class="media-body">'+s.title+'</div></a></li>');
+					    $("#videos").append('<li class="table-view-cell media"><a class="navigate-right" href="https://www.youtube.com/watch?v="'+ri.videoId+'"><img class="media-object pull-left icon img-42" src="t.default.url"><div class="media-body">'+s.title+'</div></a></li>');
 					}
 				});
 			}   
